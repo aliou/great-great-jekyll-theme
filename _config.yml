@@ -18,7 +18,6 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo
 
 exclude:
   - node_modules
